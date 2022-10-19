@@ -21,7 +21,7 @@ When viewed side-by-side, stock performance in 2017 vastly outpaced that of 2018
 
 Trading volumes remained high on both of these stocks and Steve might consider recommending these over the previous *DQ* offering.
 ### Code Performance 
-Optimizing the code enabled the output scripts to run approximately 4/10ths of a second faster, so in theory adding more data will also take less time to compute given the refactored VBA_Challenge file. The 15,000 or so data points per sheet resulted in script runs as follows: 
+Optimizing the code enabled the output scripts to run approximately 4/10ths to 5/10ths of a second faster, so in theory adding more data will also take less time to compute given the refactored VBA_Challenge file. The 15,000 or so data points per sheet resulted in script runs as follows: 
 
 | ![](https://github.com/scottemac00/stock-analysis/blob/0224d5664e57cd7f7ee4535c6b677a8ee876903f/Resources/Non-Refactored%20Code%20Time%202017.png) | ![](https://github.com/scottemac00/stock-analysis/blob/0224d5664e57cd7f7ee4535c6b677a8ee876903f/Resources/VBA_Challenge_2017.png) |
 | --------------------------- | ----------------------------- |
@@ -30,6 +30,13 @@ Optimizing the code enabled the output scripts to run approximately 4/10ths of a
 | ![](https://github.com/scottemac00/stock-analysis/blob/0224d5664e57cd7f7ee4535c6b677a8ee876903f/Resources/Non-Refactored%20Code%20Time%202018.png) | ![](https://github.com/scottemac00/stock-analysis/blob/0224d5664e57cd7f7ee4535c6b677a8ee876903f/Resources/VBA_Challenge_2018.png) |
 | --------------------------- | ----------------------------- |
 | **Orginal Code Time, 2018**  | **Refactored Code Time, 2018**  |
+
+Additionaly, while you might think adding an additional variable and For loops to our code would mean additional run time, the opposite proved true. Here is an example of the original code loops, followed by the refactored code loops:
+
+| ![]() | ![]() |
+| --------------------------- | ----------------------------- |
+| **Orginal Code Loops**  | **Refactored Code Loops**  |
+
 
 ## Summary
 Advantages to refactoring code include: improved output times, refined user interface and visual outputs, and simplifiying the code for future re-use. Disadvantages might include: time spent on said refactor versus sustaining current products (project resource management), and the potential to break the code or maybe even uneccesarily complicate code at the expense of a more detailed output.
