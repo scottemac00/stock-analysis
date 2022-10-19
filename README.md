@@ -17,7 +17,7 @@ When viewed side-by-side, stock performance in 2017 vastly outpaced that of 2018
 
 | ![](https://github.com/scottemac00/stock-analysis/blob/0224d5664e57cd7f7ee4535c6b677a8ee876903f/Resources/Non-Refactored%20Code%20Time%202018.png) | ![](https://github.com/scottemac00/stock-analysis/blob/0224d5664e57cd7f7ee4535c6b677a8ee876903f/Resources/VBA_Challenge_2018.png) |
 | --------------------------- | ----------------------------- |
-| **Orginal Code Time, 2018**  | **Refactored Code Time, 2018**  |
+| **2017 Performace**  | **2018 Performance**  |
 
 <Insert output from 2017 and 2018> Trading volumes remained high on both of these stocks and Steve might consider recommending these over the previous *DQ* offering.
 ### Code Performance 
