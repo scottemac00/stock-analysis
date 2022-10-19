@@ -7,7 +7,7 @@ The phrase, "past performance is not an indicator of future returns" is a founda
 ### Drab to Almost Fab
 What began as a relatively ordinary MS Excel workbook that contained a not small amount of stock performance information became a macro-enabled, easy-to-use interface that does a bit more than simply output some stock information for a given year. 
 
-| First Header                | Second Header                 |
+| ![](https://github.com/scottemac00/stock-analysis/blob/0224d5664e57cd7f7ee4535c6b677a8ee876903f/Resources/Original%20DQ%20Analysis%20Sheet.png) | ![](https://github.com/scottemac00/stock-analysis/blob/0224d5664e57cd7f7ee4535c6b677a8ee876903f/Resources/VBA_Challenge_Output_Example.png)                 |
 | --------------------------- | ----------------------------- |
 | **DQ Analysis Screenshot**  | **VBA Challenge Screenshot**  |
 
