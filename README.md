@@ -33,7 +33,7 @@ Optimizing the code enabled the output scripts to run approximately 4/10ths to 5
 
 Additionaly, while you might think adding an additional variable and For loops to our code would mean additional run time, the opposite proved true. Here is an example of the original code loops, followed by the refactored code loops:
 
-| ![]() | ![]() |
+| ![](https://github.com/scottemac00/stock-analysis/blob/96608bfb7b17a6a49dca468fa76661d8a85d94f5/Resources/Original%20Code%20Loop.png) | ![](https://github.com/scottemac00/stock-analysis/blob/96608bfb7b17a6a49dca468fa76661d8a85d94f5/Resources/Refactored%20Code%20Loops.png) |
 | --------------------------- | ----------------------------- |
 | **Orginal Code Loops**  | **Refactored Code Loops**  |
 
