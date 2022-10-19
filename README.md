@@ -13,7 +13,13 @@ What began as a relatively ordinary MS Excel workbook that contained a not small
 
 The image on the left depicts the basic output of the original analysis for Steve with one stock. The image on the right depicts the final product (VBA Challenge) output that displays all green stocks. Note the more visually stimulating VBA Challenge output that allows the user to easily determine loss or gain with color coding. 
 ### What Happened in 20xx?!
-When viewed side-by-side, stock performance in 2017 vastly outpaced that of 2018, with the only two solid performers being *ENPH* and *RUN*. <Insert output from 2017 and 2018> Trading volumes remained high on both of these stocks and Steve might consider recommending these over the previous *DQ* offering.
+When viewed side-by-side, stock performance in 2017 vastly outpaced that of 2018, with the only two solid performers being *ENPH* and *RUN*. 
+
+| ![](https://github.com/scottemac00/stock-analysis/blob/0224d5664e57cd7f7ee4535c6b677a8ee876903f/Resources/Non-Refactored%20Code%20Time%202018.png) | ![](https://github.com/scottemac00/stock-analysis/blob/0224d5664e57cd7f7ee4535c6b677a8ee876903f/Resources/VBA_Challenge_2018.png) |
+| --------------------------- | ----------------------------- |
+| **Orginal Code Time, 2018**  | **Refactored Code Time, 2018**  |
+
+<Insert output from 2017 and 2018> Trading volumes remained high on both of these stocks and Steve might consider recommending these over the previous *DQ* offering.
 ### Code Performance 
 Optimizing the code enabled the output scripts to run approximately 4/10ths of a second faster, so in theory adding more data will also take less time to compute given the refactored VBA_Challenge file. The 15,000 or so data points per sheet resulted in script runs as follows: 
 
